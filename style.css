@@ -1,0 +1,27 @@
+.container {
+    margin-top: 20px;
+    width: 90vw;
+    height: 90vh;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+}
+
+.myButton {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 50vw;
+    height: 05vh;
+}
+
+.displayList {
+    width: 50rem;
+    height: 40rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
